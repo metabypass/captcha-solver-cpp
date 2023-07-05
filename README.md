@@ -9,7 +9,7 @@ Free demo (no credit card required) -> https://app.metabypass.tech/application
 
 Solve image captcha , reCaptcha v2 & v3 , invisible reCaptcha <br/>
 Auto handler for reCaptcha v2 <br/>
-The compiled version to use easily with the shell everywhere. [compied version repo](https://metabypass.tech) <br/>
+The compiled version to use easily with the shell everywhere. [compied version repo](https://github.com/metabypass/captcha-solver-compiled-cpp) <br/>
 
 <br/>
 <br/>
